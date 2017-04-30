@@ -21,5 +21,15 @@ The major concepts of this lab are:
 
 <br><strong>Starting an HTML Document</strong></br>
 Your HTML documents should start with the following format. This is a basic, valid, HTML document structure. Your content goes inside of the <code>body</code> tags.
-
-
+<code>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>title</title>
+  </head>
+  <body>
+    <!-- page content -->
+  </body>
+</html>
+</code>
