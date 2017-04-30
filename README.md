@@ -8,10 +8,8 @@ The major concepts of this lab are:
 * Making data-centered HTML Documents
     * Thinking in terms of describing our data, without care for the visual aspect
     *  Focusing on structure and semantical validity.
-<li>Writing valid HTML</li>
-<ul>
-<li><a href="https://validator.w3.org/#validate_by_input">Your HTML must be valid</a> or you will lose points on the assignment.</li>
-</ul>
+* Writing valid HTML
+   * <a href="https://validator.w3.org/#validate_by_input">Your HTML must be valid</a> or you will lose points on the assignment.
 <li>Linking between pages</li>
 <ul>
     <li>You will use a basic navigation structure (see below) on each page to link to all the pages you are writing.</li>
