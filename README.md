@@ -5,7 +5,6 @@ For this lab, we will create our first 3 HTML files!
 This lab is unique in a major way: there is no node code this week!
 
 The major concepts of this lab are:
-
 <li>Making data-centered HTML Documents</li>
 <ul>
   <li>Thinking in terms of describing our data, without care for the visual aspect</li>
