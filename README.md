@@ -6,10 +6,8 @@ This lab is unique in a major way: there is no node code this week!
 
 The major concepts of this lab are:
 <li>Making data-centered HTML Documents</li>
-<ul>
-     <li>Thinking in terms of describing our data, without care for the visual aspect</li>
-     <li>Focusing on structure and semantical validity.</li>
-</ul>
+ Thinking in terms of describing our data, without care for the visual aspect
+ Focusing on structure and semantical validity.
 <li>Writing valid HTML</li>
 <ul>
 <li><a href="https://validator.w3.org/#validate_by_input">Your HTML must be valid</a> or you will lose points on the assignment.</li>
