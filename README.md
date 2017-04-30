@@ -43,7 +43,7 @@ Each page should include a navigation that links to both other pages
 </header>
 ```
 <head><strong>About the content</strong></head>
-<br><strong>You are allowed to make up all the content.</strong></br> If you do not want to give the real information in the HTML documents, feel free to make up the content with an elaborate (or not so elaborate) story.
+<strong>You are allowed to make up all the content.</strong> If you do not want to give the real information in the HTML documents, feel free to make up the content with an elaborate (or not so elaborate) story.
 
 If you need ideas, I recommend talking about:
 <li>Your life as a dinosaur trainer</li>
