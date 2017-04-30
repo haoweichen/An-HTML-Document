@@ -21,7 +21,7 @@ The major concepts of this lab are:
 
 <br><strong>Starting an HTML Document</strong></br>
 Your HTML documents should start with the following format. This is a basic, valid, HTML document structure. Your content goes inside of the <code>body</code> tags.
-<code>
+<style>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -32,4 +32,4 @@ Your HTML documents should start with the following format. This is a basic, val
     <!-- page content -->
   </body>
 </html>
-</code>
+</style>
