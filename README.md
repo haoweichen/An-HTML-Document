@@ -42,7 +42,7 @@ Each page should include a navigation that links to both other pages
   </nav>
 </header>
 ```
-<head><strong>About the content</strong></head>
+<br><strong>About the content</strong></br>
 <strong>You are allowed to make up all the content.</strong> If you do not want to give the real information in the HTML documents, feel free to make up the content with an elaborate (or not so elaborate) story.
 
 If you need ideas, I recommend talking about:
@@ -52,8 +52,8 @@ If you need ideas, I recommend talking about:
 
 <br><strong>index.html</strong></br>
 In index.html, you will write a document describing yourself and your likes. In this document you will:
-<li>Include a heading tag with your name; for example, I would make mine say About Phil Barresi. You should also include a similar description in your title tag.</li>
-<li>Create a main element with several sections inside of it; each section will have a heading describing the content inside of it.</li>
+<li>Include a heading tag with your name; for example, I would make mine say <code>About Phil Barresi</code>. You should also include a similar description in your <code>title tag</code>.</li>
+<li>Create a <code>main</code> element with several sections inside of it; each section will have a heading describing the content inside of it.</li>
 Your sections will be:
 1. A short, 1-2 paragraph biography about yourself
 2. An ordered list of your favorite TV shows, ranked by how much you like each show
@@ -70,10 +70,10 @@ In education.html, you will write a document describing yourself and your likes.
 
 <br><strong>story.html</strong></br>
 In story.html, you will write a document telling a story that you'd like to share with the world.
-<li>Include a heading tag describing the page; for example, I would make mine say That Time I Overreacted and Bought a Macbook. You should also include a similar description in your titletag.</li>
-<li>Create a main element with the necessary HTML content to tell your story.</li>
+<li>Include a heading tag describing the page; for example, I would make mine say <code>That Time I Overreacted and Bought a Macbook</code>. You should also include a similar description in your <code>title</code> tag.</li>
+<li>Create a <code>main</code> element with the necessary HTML content to tell your story.</li>
 
 <br><strong>General Requirements</strong></br>
 1. Your HTML must be valid (Links to an external site.)Links to an external site. or you will lose points on the assignment.
-2. Your HTML must make semantical sense; usage of tags for the purpose of simply changing the style of elements (such as i, b, font, center, etc) will result in points being deducted; think in terms of content first; style is done in CSS, not your HTML!
-3. You can be as creative as you'd like to fulfill front-end requirements; if an implementation is not explicitly stated, however you go about it is fine (provided the HTML is valid and semantical). Design is not a factor in this course.
+2. Your HTML must make semantical sense; usage of tags for the purpose of simply changing the style of elements (such as <code>i</code>, <code>b</code>, <code>font</code>, <code>center</code>, etc) will result in points being deducted; think in terms of content first; style is done in CSS, not your HTML!
+3. <strong>You can be as creative as you'd like to fulfill front-end requirements</strong>; if an implementation is not explicitly stated, however you go about it is fine (provided the HTML is valid and semantical). Design is not a factor in this course.
